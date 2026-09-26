@@ -6834,7 +6834,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2251/I7/32/1024/SG/UK/A-" url="" price="" basket="1" stock="0">
+  <o id="A2251/I7/32/1024/SG/UK/A-" url="" price="" basket="1" stock="1">
     <name>A2251/I7/32/1024/SG/UK/A-</name>
     <desc></desc>
     <imgs></imgs>
@@ -6906,7 +6906,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2251/I7/32/1024/SERWIS" url="" price="" basket="1" stock="1">
+  <o id="A2251/I7/32/1024/SERWIS" url="" price="" basket="1" stock="0">
     <name>A2251/I7/32/1024/SERWIS</name>
     <desc></desc>
     <imgs></imgs>
