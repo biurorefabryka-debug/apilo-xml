@@ -7344,7 +7344,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2251/I7/32/512/SG/UK/B+" url="" price="" basket="1" stock="0">
+  <o id="A2251/I7/32/512/SG/UK/B+" url="" price="" basket="1" stock="1">
     <name>A2251/I7/32/512/SG/UK/B+</name>
     <desc></desc>
     <imgs></imgs>
@@ -7410,7 +7410,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2251/I7/32/512/SERWIS" url="" price="" basket="1" stock="3">
+  <o id="A2251/I7/32/512/SERWIS" url="" price="" basket="1" stock="2">
     <name>A2251/I7/32/512/SERWIS</name>
     <desc></desc>
     <imgs></imgs>
