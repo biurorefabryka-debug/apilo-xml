@@ -5430,7 +5430,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2141/I9/32/1024/SG/US/B+" url="" price="" basket="1" stock="1">
+  <o id="A2141/I9/32/1024/SG/US/B+" url="" price="" basket="1" stock="0">
     <name>A2141/I9/32/1024/SG/US/B+</name>
     <desc></desc>
     <imgs></imgs>
@@ -9768,7 +9768,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2681/M2/16/512/SG/UK/A" url="" price="" basket="1" stock="0">
+  <o id="A2681/M2/16/512/SG/UK/A" url="" price="" basket="1" stock="1">
     <name>A2681/M2/16/512/SG/UK/A</name>
     <desc></desc>
     <imgs></imgs>
@@ -9798,7 +9798,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2681/M2/16/512/SG/US/B+" url="" price="" basket="1" stock="0">
+  <o id="A2681/M2/16/512/SG/US/B+" url="" price="" basket="1" stock="1">
     <name>A2681/M2/16/512/SG/US/B+</name>
     <desc></desc>
     <imgs></imgs>
@@ -33222,19 +33222,19 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="LAT5530/I7/US/A-" url="" price="1975" basket="1" stock="1">
+  <o id="LAT5530/I7/US/A-" url="" price="1975" basket="1" stock="0">
     <name>LAT5530/I7/US/A-</name>
     <desc></desc>
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="LAT5530/I7/US/B+" url="" price="1850" basket="1" stock="3">
+  <o id="LAT5530/I7/US/B+" url="" price="1850" basket="1" stock="2">
     <name>LAT5530/I7/US/B+</name>
     <desc></desc>
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="LAT5530/I7/US/B" url="" price="1750" basket="1" stock="19">
+  <o id="LAT5530/I7/US/B" url="" price="1750" basket="1" stock="20">
     <name>LAT5530/I7/US/B</name>
     <desc></desc>
     <imgs></imgs>
