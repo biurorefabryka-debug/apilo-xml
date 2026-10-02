@@ -8100,7 +8100,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2337/M1/16/256/SG/UK/B+" url="" price="" basket="1" stock="4">
+  <o id="A2337/M1/16/256/SG/UK/B+" url="" price="" basket="1" stock="3">
     <name>A2337/M1/16/256/SG/UK/B+</name>
     <desc></desc>
     <imgs></imgs>
@@ -9780,7 +9780,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2681/M2/16/512/SG/UK/B+" url="" price="" basket="1" stock="3">
+  <o id="A2681/M2/16/512/SG/UK/B+" url="" price="" basket="1" stock="2">
     <name>A2681/M2/16/512/SG/UK/B+</name>
     <desc></desc>
     <imgs></imgs>
@@ -10698,7 +10698,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2337/M1/8/256/OUTLET" url="" price="" basket="1" stock="2">
+  <o id="A2337/M1/8/256/OUTLET" url="" price="" basket="1" stock="1">
     <name>A2337/M1/8/256/OUTLET</name>
     <desc></desc>
     <imgs></imgs>
@@ -33114,7 +33114,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="LAT5520/I5/BE/A-" url="" price="1480" basket="1" stock="1">
+  <o id="LAT5520/I5/BE/A-" url="" price="1480" basket="1" stock="0">
     <name>LAT5520/I5/BE/A-</name>
     <desc></desc>
     <imgs></imgs>
@@ -33126,7 +33126,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="LAT5520/I5/BE/B" url="" price="1300" basket="1" stock="25">
+  <o id="LAT5520/I5/BE/B" url="" price="1300" basket="1" stock="23">
     <name>LAT5520/I5/BE/B</name>
     <desc></desc>
     <imgs></imgs>
