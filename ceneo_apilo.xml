@@ -4884,7 +4884,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2141/I7/16/512/B" url="" price="" basket="1" stock="10">
+  <o id="A2141/I7/16/512/B" url="" price="" basket="1" stock="9">
     <name>A2141/I7/16/512/B</name>
     <desc></desc>
     <imgs></imgs>
@@ -5244,7 +5244,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2141/I9/16/1024/SG/UK/B+" url="" price="" basket="1" stock="1">
+  <o id="A2141/I9/16/1024/SG/UK/B+" url="" price="" basket="1" stock="0">
     <name>A2141/I9/16/1024/SG/UK/B+</name>
     <desc></desc>
     <imgs></imgs>
@@ -5388,7 +5388,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2141/I9/32/512/B" url="" price="" basket="1" stock="4">
+  <o id="A2141/I9/32/512/B" url="" price="" basket="1" stock="3">
     <name>A2141/I9/32/512/B</name>
     <desc></desc>
     <imgs></imgs>
@@ -5472,7 +5472,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2141/I9/32/1024/B" url="" price="" basket="1" stock="8">
+  <o id="A2141/I9/32/1024/B" url="" price="" basket="1" stock="7">
     <name>A2141/I9/32/1024/B</name>
     <desc></desc>
     <imgs></imgs>
@@ -8094,7 +8094,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2337/M1/16/256/SG/UK/A-" url="" price="" basket="1" stock="1">
+  <o id="A2337/M1/16/256/SG/UK/A-" url="" price="" basket="1" stock="0">
     <name>A2337/M1/16/256/SG/UK/A-</name>
     <desc></desc>
     <imgs></imgs>
@@ -8160,13 +8160,13 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2337/M1/16/256/B" url="" price="" basket="1" stock="2">
+  <o id="A2337/M1/16/256/B" url="" price="" basket="1" stock="3">
     <name>A2337/M1/16/256/B</name>
     <desc></desc>
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2337/M1/16/256/SERWIS" url="" price="" basket="1" stock="2">
+  <o id="A2337/M1/16/256/SERWIS" url="" price="" basket="1" stock="3">
     <name>A2337/M1/16/256/SERWIS</name>
     <desc></desc>
     <imgs></imgs>
@@ -8244,7 +8244,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2337/M1/16/512/B" url="" price="" basket="1" stock="3">
+  <o id="A2337/M1/16/512/B" url="" price="" basket="1" stock="2">
     <name>A2337/M1/16/512/B</name>
     <desc></desc>
     <imgs></imgs>
