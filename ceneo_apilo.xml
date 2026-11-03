@@ -5376,7 +5376,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2141/I7/16/512/SG/UK/A-" url="" price="1715" basket="1" stock="4">
+  <o id="A2141/I7/16/512/SG/UK/A-" url="" price="1715" basket="1" stock="2">
     <name>A2141/I7/16/512/SG/UK/A-</name>
     <desc></desc>
     <imgs></imgs>
@@ -5400,7 +5400,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2141/I7/16/512/SG/US/B+" url="" price="1600" basket="1" stock="1">
+  <o id="A2141/I7/16/512/SG/US/B+" url="" price="1600" basket="1" stock="7">
     <name>A2141/I7/16/512/SG/US/B+</name>
     <desc></desc>
     <imgs></imgs>
@@ -5448,7 +5448,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2141/I7/16/512/SERWIS" url="" price="0" basket="1" stock="16">
+  <o id="A2141/I7/16/512/SERWIS" url="" price="0" basket="1" stock="13">
     <name>A2141/I7/16/512/SERWIS</name>
     <desc></desc>
     <imgs></imgs>
@@ -7920,7 +7920,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2251/I7/16/512/SG/UK/B" url="" price="1300" basket="1" stock="12">
+  <o id="A2251/I7/16/512/SG/UK/B" url="" price="1300" basket="1" stock="11">
     <name>A2251/I7/16/512/SG/UK/B</name>
     <desc></desc>
     <imgs></imgs>
@@ -8922,7 +8922,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2337/M1/16/256/SERWIS" url="" price="0" basket="1" stock="2">
+  <o id="A2337/M1/16/256/SERWIS" url="" price="0" basket="1" stock="1">
     <name>A2337/M1/16/256/SERWIS</name>
     <desc></desc>
     <imgs></imgs>
@@ -11640,7 +11640,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2485/M1MAX/64/1024/OUTLET" url="" price="0" basket="1" stock="2">
+  <o id="A2485/M1MAX/64/1024/OUTLET" url="" price="0" basket="1" stock="0">
     <name>A2485/M1MAX/64/1024/OUTLET</name>
     <desc></desc>
     <imgs></imgs>
@@ -11658,7 +11658,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2141/I7/16/512/OUTLET" url="" price="0" basket="1" stock="1">
+  <o id="A2141/I7/16/512/OUTLET" url="" price="0" basket="1" stock="0">
     <name>A2141/I7/16/512/OUTLET</name>
     <desc></desc>
     <imgs></imgs>
