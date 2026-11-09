@@ -5376,7 +5376,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2141/I7/16/512/SG/UK/A-" url="" price="1715" basket="1" stock="0">
+  <o id="A2141/I7/16/512/SG/UK/A-" url="" price="1715" basket="1" stock="1">
     <name>A2141/I7/16/512/SG/UK/A-</name>
     <desc></desc>
     <imgs></imgs>
@@ -5394,13 +5394,13 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2141/I7/16/512/SG/US/A-" url="" price="1715" basket="1" stock="10">
+  <o id="A2141/I7/16/512/SG/US/A-" url="" price="1715" basket="1" stock="12">
     <name>A2141/I7/16/512/SG/US/A-</name>
     <desc></desc>
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2141/I7/16/512/SG/US/B+" url="" price="1600" basket="1" stock="15">
+  <o id="A2141/I7/16/512/SG/US/B+" url="" price="1600" basket="1" stock="18">
     <name>A2141/I7/16/512/SG/US/B+</name>
     <desc></desc>
     <imgs></imgs>
@@ -5448,7 +5448,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2141/I7/16/512/SERWIS" url="" price="0" basket="1" stock="13">
+  <o id="A2141/I7/16/512/SERWIS" url="" price="0" basket="1" stock="12">
     <name>A2141/I7/16/512/SERWIS</name>
     <desc></desc>
     <imgs></imgs>
@@ -6054,7 +6054,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2141/I9/32/1024/S/US/A-" url="" price="2420" basket="1" stock="0">
+  <o id="A2141/I9/32/1024/S/US/A-" url="" price="2420" basket="1" stock="1">
     <name>A2141/I9/32/1024/S/US/A-</name>
     <desc></desc>
     <imgs></imgs>
@@ -8838,7 +8838,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2337/M1/16/256/SG/UK/B+" url="" price="2450" basket="1" stock="1">
+  <o id="A2337/M1/16/256/SG/UK/B+" url="" price="2450" basket="1" stock="2">
     <name>A2337/M1/16/256/SG/UK/B+</name>
     <desc></desc>
     <imgs></imgs>
@@ -34458,7 +34458,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="PREC5530/I7/US/A-" url="" price="2000" basket="1" stock="2">
+  <o id="PREC5530/I7/US/A-" url="" price="2000" basket="1" stock="1">
     <name>PREC5530/I7/US/A-</name>
     <desc></desc>
     <imgs></imgs>
@@ -34674,7 +34674,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="PREC7750/I7/US/A-" url="" price="2800" basket="1" stock="2">
+  <o id="PREC7750/I7/US/A-" url="" price="2800" basket="1" stock="0">
     <name>PREC7750/I7/US/A-</name>
     <desc></desc>
     <imgs></imgs>
