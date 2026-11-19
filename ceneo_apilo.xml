@@ -2922,7 +2922,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A1932/I5/8/256/SG/UK/B+" url="" price="1100" basket="1" stock="0">
+  <o id="A1932/I5/8/256/SG/UK/B+" url="" price="1100" basket="1" stock="1">
     <name>A1932/I5/8/256/SG/UK/B+</name>
     <desc></desc>
     <imgs></imgs>
@@ -3006,7 +3006,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A1932/I5/8/256/SERWIS" url="" price="0" basket="1" stock="1">
+  <o id="A1932/I5/8/256/SERWIS" url="" price="0" basket="1" stock="0">
     <name>A1932/I5/8/256/SERWIS</name>
     <desc></desc>
     <imgs></imgs>
@@ -3210,7 +3210,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A1932/I5/16/256/SG/UK/B+" url="" price="1150" basket="1" stock="2">
+  <o id="A1932/I5/16/256/SG/UK/B+" url="" price="1150" basket="1" stock="1">
     <name>A1932/I5/16/256/SG/UK/B+</name>
     <desc></desc>
     <imgs></imgs>
@@ -3270,7 +3270,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A1932/I5/16/256/SG/US/B" url="" price="1100" basket="1" stock="1">
+  <o id="A1932/I5/16/256/SG/US/B" url="" price="1100" basket="1" stock="0">
     <name>A1932/I5/16/256/SG/US/B</name>
     <desc></desc>
     <imgs></imgs>
@@ -3678,7 +3678,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A1989/I5/16/256/SG/UK/B" url="" price="1180" basket="1" stock="2">
+  <o id="A1989/I5/16/256/SG/UK/B" url="" price="1180" basket="1" stock="1">
     <name>A1989/I5/16/256/SG/UK/B</name>
     <desc></desc>
     <imgs></imgs>
@@ -5448,7 +5448,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2141/I7/16/512/SERWIS" url="" price="0" basket="1" stock="10">
+  <o id="A2141/I7/16/512/SERWIS" url="" price="0" basket="1" stock="9">
     <name>A2141/I7/16/512/SERWIS</name>
     <desc></desc>
     <imgs></imgs>
@@ -5616,7 +5616,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2141/I7/32/512/SERWIS" url="" price="0" basket="1" stock="3">
+  <o id="A2141/I7/32/512/SERWIS" url="" price="0" basket="1" stock="2">
     <name>A2141/I7/32/512/SERWIS</name>
     <desc></desc>
     <imgs></imgs>
@@ -9480,7 +9480,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2442/M1PRO/16/512/SG/UK/B+" url="" price="3300" basket="1" stock="0">
+  <o id="A2442/M1PRO/16/512/SG/UK/B+" url="" price="3300" basket="1" stock="1">
     <name>A2442/M1PRO/16/512/SG/UK/B+</name>
     <desc></desc>
     <imgs></imgs>
