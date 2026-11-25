@@ -810,7 +810,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A1502/I5/8/512/S/UK/A-" url="" price="929" basket="1" stock="1">
+  <o id="A1502/I5/8/512/S/UK/A-" url="" price="929" basket="1" stock="0">
     <name>A1502/I5/8/512/S/UK/A-</name>
     <desc></desc>
     <imgs></imgs>
@@ -4158,7 +4158,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A1989/I7/16/256/SG/US/B" url="" price="1300" basket="1" stock="1">
+  <o id="A1989/I7/16/256/SG/US/B" url="" price="1300" basket="1" stock="0">
     <name>A1989/I7/16/256/SG/US/B</name>
     <desc></desc>
     <imgs></imgs>
@@ -4458,7 +4458,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A1990/I7/16/256/SG/UK/B" url="" price="1350" basket="1" stock="1">
+  <o id="A1990/I7/16/256/SG/UK/B" url="" price="1350" basket="1" stock="0">
     <name>A1990/I7/16/256/SG/UK/B</name>
     <desc></desc>
     <imgs></imgs>
@@ -4764,7 +4764,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A1990/I7/32/256/SG/UK/B" url="" price="1450" basket="1" stock="1">
+  <o id="A1990/I7/32/256/SG/UK/B" url="" price="1450" basket="1" stock="0">
     <name>A1990/I7/32/256/SG/UK/B</name>
     <desc></desc>
     <imgs></imgs>
@@ -5256,7 +5256,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A1990/I9/32/512/SG/UK/B" url="" price="1700" basket="1" stock="1">
+  <o id="A1990/I9/32/512/SG/UK/B" url="" price="1700" basket="1" stock="0">
     <name>A1990/I9/32/512/SG/UK/B</name>
     <desc></desc>
     <imgs></imgs>
@@ -6378,7 +6378,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2141/I9/64/1024/SG/UK/A" url="" price="0" basket="1" stock="0">
+  <o id="A2141/I9/64/1024/SG/UK/A" url="" price="0" basket="1" stock="1">
     <name>A2141/I9/64/1024/SG/UK/A</name>
     <desc></desc>
     <imgs></imgs>
@@ -6474,7 +6474,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2141/I9/64/1024/SERWIS" url="" price="0" basket="1" stock="3">
+  <o id="A2141/I9/64/1024/SERWIS" url="" price="0" basket="1" stock="2">
     <name>A2141/I9/64/1024/SERWIS</name>
     <desc></desc>
     <imgs></imgs>
@@ -7614,7 +7614,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="A2251/I7/32/1024/SG/UK/A-" url="" price="2140" basket="1" stock="1">
+  <o id="A2251/I7/32/1024/SG/UK/A-" url="" price="2140" basket="1" stock="0">
     <name>A2251/I7/32/1024/SG/UK/A-</name>
     <desc></desc>
     <imgs></imgs>
@@ -34260,7 +34260,7 @@
     <imgs></imgs>
     <attrs></attrs>
   </o>
-  <o id="LAT5530/I5/US/SERWIS" url="" price="" basket="1" stock="6">
+  <o id="LAT5530/I5/US/SERWIS" url="" price="" basket="1" stock="5">
     <name>LAT5530/I5/US/SERWIS</name>
     <desc></desc>
     <imgs></imgs>
